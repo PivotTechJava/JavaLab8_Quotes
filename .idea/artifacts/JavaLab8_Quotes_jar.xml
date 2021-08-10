@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaLab8_Quotes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaLab8_Quotes_jar</output-path>
+    <root id="archive" name="JavaLab8_Quotes.jar">
+      <element id="module-output" name="JavaLab8_Quotes" />
+    </root>
+  </artifact>
+</component>
